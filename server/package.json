@@ -1,5 +1,5 @@
 {
-  "name": "student-portal-api",
+  "name": "node-sqlite-react-template",
   "type": "module",
   "scripts": {
     "dev": "tsx watch src/index.ts",
